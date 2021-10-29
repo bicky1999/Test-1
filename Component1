@@ -5,4 +5,8 @@ Hi
 Working on Git
 Implementing Git clone command
 Testing Git fetch
+<<<<<<< HEAD
 Day-2 testing merge conflict
+=======
+Merge conflict test from browser Day-2
+>>>>>>> f4133194e2f00e63816aa32fd1b91e870686af3f
